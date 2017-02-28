@@ -1,0 +1,45 @@
+
+        *{
+            margin:0;
+            padding:0;
+        }
+        body{
+            font-size: 1em;
+            font-family:sans-serif;
+            max-width: 960px;
+            margin:0 auto;
+            padding-top:3em;
+            background-color: whitesmoke;
+            padding-left: 2em;
+            padding-right: 1em;
+        }
+        h1{
+            background-color: grey;
+            color:white;
+            border-bottom:2px solid black;
+            
+        }
+        h2{
+            background-color:white;
+            border-bottom:2px solid black;
+           
+        }
+       li{
+          background-color:whitesmoke;
+           padding:.5em;
+           margin:.2em;
+           
+    
+       }
+      ul,ol{
+          margin-left: 1em;}
+.container{
+
+    padding:1em;
+    float:right;
+}
+
+  
+    
+    
+    
